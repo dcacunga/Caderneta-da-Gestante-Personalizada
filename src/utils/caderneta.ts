@@ -1,4 +1,4 @@
-export const CHECKOUT_URL = 'https://pay.clickpayon.com/352e944e-6076-454a-9b0a-c77062facb6c';
+export const CHECKOUT_URL = 'https://pay.clickpayon.com/9c55549b-6c40-4679-8972-c0b086c6a064';
 
 /**
  * Returns the checkout URL, optionally appending URL search params.
