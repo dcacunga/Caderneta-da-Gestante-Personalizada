@@ -1,0 +1,6 @@
+{
+  "name": "Caderneta da Gestante Personalizada",
+  "description": "Guarda os momentos mais especiais da tua gestação com a Caderneta da Gestante Personalizada. Regista as tuas consultas, organiza as informações e transforma esta jornada numa recordação inesquecível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
